@@ -92,6 +92,10 @@ I implemented a rate limit of 10 requests per minute to prevent automated "brute
 429
 429
 
+## Loom Walkthrough video
+
+https://www.loom.com/share/cc1734c0a89945e0bc2d1b953532d0de
+
 
 ## Audit Log Evidence
 ```json
@@ -129,4 +133,5 @@ I implemented a rate limit of 10 requests per minute to prevent automated "brute
     }
   ]
 }
+
 
